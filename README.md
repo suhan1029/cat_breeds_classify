@@ -7,4 +7,5 @@
 ### 고양이 데이터 출처
 https://www.kaggle.com/datasets/doctrinek/catbreedsrefined-7k
 
-### 체험
+### 앱 체험
+https://catbreedsclassify-cuw2hxtpatmjzxqkcmughd.streamlit.app/
